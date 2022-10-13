@@ -1,0 +1,12 @@
+[
+    {
+        "category": "pizza",
+        "name": "Ветчина и грибы",
+        "description": "Ветчина"
+    },
+    {
+        "category": "pizza",
+        "name": "Баварские колбаски",
+        "description": "Баварские колбаски"
+    }
+]
