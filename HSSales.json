@@ -2,12 +2,14 @@
     {
         "title": "Sale title",
         "discont": "30",
-        "promocode": "AUTUMN"
+        "promocode": "AUTUMN",
+        "image": "https://raw.githubusercontent.com/IvanPuzanov/FoodDeliveryAPI/main/Images/promo1.png"
     },
     {
         "title": "Sale title",
         "discont": "30",
-        "promocode": "AUTUMN"
+        "promocode": "AUTUMN",
+        "image": "https://raw.githubusercontent.com/IvanPuzanov/FoodDeliveryAPI/main/Images/promo2.png"
     },
     {
         "title": "Sale title",
