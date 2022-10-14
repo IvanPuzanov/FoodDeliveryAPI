@@ -26,5 +26,26 @@
         "name": "Четыре сыра",
         "description": "Соус Кабонара, Сыр Моцарелла, Сыр Пармезан",
         "price": 345.00
+    },
+    {
+        "category": "dessert",
+        "name": "Мороженное",
+        "description": "Пломбир, джем",
+        "price": 120.0,
+        "image": "https://raw.githubusercontent.com/IvanPuzanov/FoodDeliveryAPI/main/Images/dessert1.png"
+    },
+    {
+        "category": "dessert",
+        "name": "Чизкейк",
+        "description": "Классический чизкейк",
+        "price": 120.0,
+        "image": "https://raw.githubusercontent.com/IvanPuzanov/FoodDeliveryAPI/main/Images/dessert2.png"
+    },
+    {
+        "category": "drink",
+        "name": "Коктейль",
+        "description": "Сок, сироп",
+        "price": 199.0,
+        "image": "https://raw.githubusercontent.com/IvanPuzanov/FoodDeliveryAPI/main/Images/drink1.png"
     }
 ]
