@@ -5,7 +5,7 @@
         "name": "Ветчина и грибы",
         "description": "Ветчина, шампиньоны, увеличительная порция моцареллы, томатный соус",
         "price": 345.00,
-        "image": "https://raw.githubusercontent.com/IvanPuzanov/FoodDeliveryAPI/main/Images/1.png"
+        "image": "https://raw.githubusercontent.com/IvanPuzanov/FoodDeliveryAPI/main/Images/pizza1.png"
     },
     {
         "category": "pizza",
