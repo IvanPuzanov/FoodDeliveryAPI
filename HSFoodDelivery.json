@@ -11,13 +11,15 @@
         "category": "pizza",
         "name": "Баварские колбаски",
         "description": "Баварские колбаски, ветчина, пикантная пепперони, острая чоризо, моцарелла, томатный соус",
-        "price": 345.00
+        "price": 345.00,
+        "image": "https://raw.githubusercontent.com/IvanPuzanov/FoodDeliveryAPI/main/Images/pizza2.png"
     },
     {
         "category": "pizza",
         "name": "Нежный лосось",
         "description": "Лосось, томаты черри, моцарелла, соус песто",
-        "price": 345.00
+        "price": 345.00,
+        "image": "https://raw.githubusercontent.com/IvanPuzanov/FoodDeliveryAPI/main/Images/pizza3.png"
     },
     {
         "category": "pizza",
