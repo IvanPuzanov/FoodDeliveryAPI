@@ -25,7 +25,8 @@
         "category": "pizza",
         "name": "Четыре сыра",
         "description": "Соус Кабонара, Сыр Моцарелла, Сыр Пармезан",
-        "price": 345.00
+        "price": 345.00,
+        "image": "https://raw.githubusercontent.com/IvanPuzanov/FoodDeliveryAPI/main/Images/pizza4.png"
     },
     {
         "category": "dessert",
