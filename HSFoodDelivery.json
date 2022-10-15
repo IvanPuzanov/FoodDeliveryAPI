@@ -43,6 +43,13 @@
         "image": "https://raw.githubusercontent.com/IvanPuzanov/FoodDeliveryAPI/main/Images/dessert2.png"
     },
     {
+        "category": "dessert",
+        "name": "Слойка Баварская с орехом",
+        "description": "Сливочная слойка, изготовленная на сыворотке, с дроблёным фундуком и лимонной помадкой.",
+        "price": 120.0,
+        "image": "https://raw.githubusercontent.com/IvanPuzanov/FoodDeliveryAPI/main/Images/dessert3.png"
+    },
+    {
         "category": "drink",
         "name": "Коктейль",
         "description": "Сок, сироп",
