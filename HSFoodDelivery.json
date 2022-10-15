@@ -29,6 +29,13 @@
         "image": "https://raw.githubusercontent.com/IvanPuzanov/FoodDeliveryAPI/main/Images/pizza4.png"
     },
     {
+        "category": "burger",
+        "name": "Бургер",
+        "description": "Классический бургер",
+        "price": 345.00,
+        "image": "https://raw.githubusercontent.com/IvanPuzanov/FoodDeliveryAPI/main/Images/burger1.png"
+    },
+    {
         "category": "dessert",
         "name": "Мороженное",
         "description": "Пломбир, джем",
@@ -55,5 +62,19 @@
         "description": "Сок, сироп",
         "price": 199.0,
         "image": "https://raw.githubusercontent.com/IvanPuzanov/FoodDeliveryAPI/main/Images/drink1.png"
+    },
+    {
+        "category": "drink",
+        "name": "Коктейль",
+        "description": "Сок, сироп",
+        "price": 199.0,
+        "image": "https://raw.githubusercontent.com/IvanPuzanov/FoodDeliveryAPI/main/Images/drink2.png"
+    },
+    {
+        "category": "drink",
+        "name": "Коктейль",
+        "description": "Сок, сироп",
+        "price": 199.0,
+        "image": "https://raw.githubusercontent.com/IvanPuzanov/FoodDeliveryAPI/main/Images/drink3.png"
     }
 ]
